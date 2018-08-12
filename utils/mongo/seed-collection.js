@@ -34,27 +34,24 @@ const seedCollection = (schema, filePath, seedFunction) => {
 const seed = (schema, filePath, seedFunction) => {
   if (!isEmpty(filePath)) {
     console.log(`Reading ${schema.collection.name} from file...`);
-    var countries = require(filePath);
+    var data = require(filePath);
 
     console.log(`Starting importing ${schema.collection.name} ...`);
 
-    for (let index = 0; index < countries.length; index++) {
-      var country = new schema(countries[index]);
-      country.save((err, result) => {
-        if ((index + 1) % 500 === 0) {
-          console.log(`${index + 1} imported...`);
-        }
-        if (index + 1 === countries.length) {
-          console.log(`${schema.collection.name} successfully imported.`);
-          console.log("*************************************");
-          mongooseDisconnect(mongoose);
+    schema.collection.insert(data, (err, docs) => {
+      if (err) {
+        console.info(err.message);
+      } else {
+        console.info(
+          `${data.length} ${schema.collection.name} were successfully imported.`
+        );
 
-          if (seedFunction) {
-            seedFunction();
-          }
+        mongooseDisconnect(mongoose);
+        if (seedFunction) {
+          seedFunction();
         }
-      });
-    }
+      }
+    });
   } else {
     mongooseDisconnect(mongoose);
 
