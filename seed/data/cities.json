@@ -1,0 +1,569 @@
+[
+  {
+    "_id": 1,
+    "name": "ADANA",
+    "plateNumber": "01",
+    "phoneCode": "322",
+    "_country": 212
+  },
+  {
+    "_id": 2,
+    "name": "ADIYAMAN",
+    "plateNumber": "02",
+    "phoneCode": "416",
+    "_country": 212
+  },
+  {
+    "_id": 3,
+    "name": "AFYONKARAHİSAR",
+    "plateNumber": "03",
+    "phoneCode": "272",
+    "_country": 212
+  },
+  {
+    "_id": 4,
+    "name": "AĞRI",
+    "plateNumber": "04",
+    "phoneCode": "472",
+    "_country": 212
+  },
+  {
+    "_id": 5,
+    "name": "AKSARAY",
+    "plateNumber": "68",
+    "phoneCode": "382",
+    "_country": 212
+  },
+  {
+    "_id": 6,
+    "name": "AMASYA",
+    "plateNumber": "05",
+    "phoneCode": "358",
+    "_country": 212
+  },
+  {
+    "_id": 7,
+    "name": "ANKARA",
+    "plateNumber": "06",
+    "phoneCode": "312",
+    "_country": 212
+  },
+  {
+    "_id": 8,
+    "name": "ANTALYA",
+    "plateNumber": "07",
+    "phoneCode": "242",
+    "_country": 212
+  },
+  {
+    "_id": 9,
+    "name": "ARDAHAN",
+    "plateNumber": "75",
+    "phoneCode": "478",
+    "_country": 212
+  },
+  {
+    "_id": 10,
+    "name": "ARTVİN",
+    "plateNumber": "08",
+    "phoneCode": "466",
+    "_country": 212
+  },
+  {
+    "_id": 11,
+    "name": "AYDIN",
+    "plateNumber": "09",
+    "phoneCode": "256",
+    "_country": 212
+  },
+  {
+    "_id": 12,
+    "name": "BALIKESİR",
+    "plateNumber": "10",
+    "phoneCode": "266",
+    "_country": 212
+  },
+  {
+    "_id": 13,
+    "name": "BARTIN",
+    "plateNumber": "74",
+    "phoneCode": "378",
+    "_country": 212
+  },
+  {
+    "_id": 14,
+    "name": "BATMAN",
+    "plateNumber": "72",
+    "phoneCode": "488",
+    "_country": 212
+  },
+  {
+    "_id": 15,
+    "name": "BAYBURT",
+    "plateNumber": "69",
+    "phoneCode": "458",
+    "_country": 212
+  },
+  {
+    "_id": 16,
+    "name": "BİLECİK",
+    "plateNumber": "11",
+    "phoneCode": "228",
+    "_country": 212
+  },
+  {
+    "_id": 17,
+    "name": "BİNGÖL",
+    "plateNumber": "12",
+    "phoneCode": "426",
+    "_country": 212
+  },
+  {
+    "_id": 18,
+    "name": "BİTLİS",
+    "plateNumber": "13",
+    "phoneCode": "434",
+    "_country": 212
+  },
+  {
+    "_id": 19,
+    "name": "BOLU",
+    "plateNumber": "14",
+    "phoneCode": "374",
+    "_country": 212
+  },
+  {
+    "_id": 20,
+    "name": "BURDUR",
+    "plateNumber": "15",
+    "phoneCode": "248",
+    "_country": 212
+  },
+  {
+    "_id": 21,
+    "name": "BURSA",
+    "plateNumber": "16",
+    "phoneCode": "224",
+    "_country": 212
+  },
+  {
+    "_id": 22,
+    "name": "ÇANAKKALE",
+    "plateNumber": "17",
+    "phoneCode": "286",
+    "_country": 212
+  },
+  {
+    "_id": 23,
+    "name": "ÇANKIRI",
+    "plateNumber": "18",
+    "phoneCode": "376",
+    "_country": 212
+  },
+  {
+    "_id": 24,
+    "name": "ÇORUM",
+    "plateNumber": "19",
+    "phoneCode": "364",
+    "_country": 212
+  },
+  {
+    "_id": 25,
+    "name": "DENİZLİ",
+    "plateNumber": "20",
+    "phoneCode": "258",
+    "_country": 212
+  },
+  {
+    "_id": 26,
+    "name": "DİYARBAKIR",
+    "plateNumber": "21",
+    "phoneCode": "412",
+    "_country": 212
+  },
+  {
+    "_id": 27,
+    "name": "DÜZCE",
+    "plateNumber": "81",
+    "phoneCode": "380",
+    "_country": 212
+  },
+  {
+    "_id": 28,
+    "name": "EDİRNE",
+    "plateNumber": "22",
+    "phoneCode": "284",
+    "_country": 212
+  },
+  {
+    "_id": 29,
+    "name": "ELAZIĞ",
+    "plateNumber": "23",
+    "phoneCode": "424",
+    "_country": 212
+  },
+  {
+    "_id": 30,
+    "name": "ERZİNCAN",
+    "plateNumber": "24",
+    "phoneCode": "446",
+    "_country": 212
+  },
+  {
+    "_id": 31,
+    "name": "ERZURUM",
+    "plateNumber": "25",
+    "phoneCode": "442",
+    "_country": 212
+  },
+  {
+    "_id": 32,
+    "name": "ESKİŞEHİR",
+    "plateNumber": "26",
+    "phoneCode": "222",
+    "_country": 212
+  },
+  {
+    "_id": 33,
+    "name": "GAZİANTEP",
+    "plateNumber": "27",
+    "phoneCode": "342",
+    "_country": 212
+  },
+  {
+    "_id": 34,
+    "name": "GİRESUN",
+    "plateNumber": "28",
+    "phoneCode": "454",
+    "_country": 212
+  },
+  {
+    "_id": 35,
+    "name": "GÜMÜŞHANE",
+    "plateNumber": "29",
+    "phoneCode": "456",
+    "_country": 212
+  },
+  {
+    "_id": 36,
+    "name": "HAKKARİ",
+    "plateNumber": "30",
+    "phoneCode": "438",
+    "_country": 212
+  },
+  {
+    "_id": 37,
+    "name": "HATAY",
+    "plateNumber": "31",
+    "phoneCode": "326",
+    "_country": 212
+  },
+  {
+    "_id": 38,
+    "name": "IĞDIR",
+    "plateNumber": "76",
+    "phoneCode": "476",
+    "_country": 212
+  },
+  {
+    "_id": 39,
+    "name": "ISPARTA",
+    "plateNumber": "32",
+    "phoneCode": "246",
+    "_country": 212
+  },
+  {
+    "_id": 40,
+    "name": "İSTANBUL",
+    "plateNumber": "34",
+    "phoneCode": "212-216",
+    "_country": 212
+  },
+  {
+    "_id": 41,
+    "name": "İZMİR",
+    "plateNumber": "35",
+    "phoneCode": "232",
+    "_country": 212
+  },
+  {
+    "_id": 42,
+    "name": "KAHRAMANMARAŞ",
+    "plateNumber": "46",
+    "phoneCode": "344",
+    "_country": 212
+  },
+  {
+    "_id": 43,
+    "name": "KARABÜK",
+    "plateNumber": "78",
+    "phoneCode": "370",
+    "_country": 212
+  },
+  {
+    "_id": 44,
+    "name": "KARAMAN",
+    "plateNumber": "70",
+    "phoneCode": "338",
+    "_country": 212
+  },
+  {
+    "_id": 45,
+    "name": "KARS",
+    "plateNumber": "36",
+    "phoneCode": "474",
+    "_country": 212
+  },
+  {
+    "_id": 46,
+    "name": "KASTAMONU",
+    "plateNumber": "37",
+    "phoneCode": "366",
+    "_country": 212
+  },
+  {
+    "_id": 47,
+    "name": "KAYSERİ",
+    "plateNumber": "38",
+    "phoneCode": "352",
+    "_country": 212
+  },
+  {
+    "_id": 48,
+    "name": "KIRIKKALE",
+    "plateNumber": "71",
+    "phoneCode": "318",
+    "_country": 212
+  },
+  {
+    "_id": 49,
+    "name": "KIRKLARELİ",
+    "plateNumber": "39",
+    "phoneCode": "288",
+    "_country": 212
+  },
+  {
+    "_id": 50,
+    "name": "KIRŞEHİR",
+    "plateNumber": "40",
+    "phoneCode": "386",
+    "_country": 212
+  },
+  {
+    "_id": 51,
+    "name": "KİLİS",
+    "plateNumber": "79",
+    "phoneCode": "348",
+    "_country": 212
+  },
+  {
+    "_id": 52,
+    "name": "KOCAELİ",
+    "plateNumber": "41",
+    "phoneCode": "262",
+    "_country": 212
+  },
+  {
+    "_id": 53,
+    "name": "KONYA",
+    "plateNumber": "42",
+    "phoneCode": "332",
+    "_country": 212
+  },
+  {
+    "_id": 54,
+    "name": "KÜTAHYA",
+    "plateNumber": "43",
+    "phoneCode": "274",
+    "_country": 212
+  },
+  {
+    "_id": 55,
+    "name": "MALATYA",
+    "plateNumber": "44",
+    "phoneCode": "422",
+    "_country": 212
+  },
+  {
+    "_id": 56,
+    "name": "MANİSA",
+    "plateNumber": "45",
+    "phoneCode": "236",
+    "_country": 212
+  },
+  {
+    "_id": 57,
+    "name": "MARDİN",
+    "plateNumber": "47",
+    "phoneCode": "482",
+    "_country": 212
+  },
+  {
+    "_id": 58,
+    "name": "MERSİN",
+    "plateNumber": "33",
+    "phoneCode": "324",
+    "_country": 212
+  },
+  {
+    "_id": 59,
+    "name": "MUĞLA",
+    "plateNumber": "48",
+    "phoneCode": "252",
+    "_country": 212
+  },
+  {
+    "_id": 60,
+    "name": "MUŞ",
+    "plateNumber": "49",
+    "phoneCode": "436",
+    "_country": 212
+  },
+  {
+    "_id": 61,
+    "name": "NEVŞEHİR",
+    "plateNumber": "50",
+    "phoneCode": "384",
+    "_country": 212
+  },
+  {
+    "_id": 62,
+    "name": "NİĞDE",
+    "plateNumber": "51",
+    "phoneCode": "388",
+    "_country": 212
+  },
+  {
+    "_id": 63,
+    "name": "ORDU",
+    "plateNumber": "52",
+    "phoneCode": "452",
+    "_country": 212
+  },
+  {
+    "_id": 64,
+    "name": "OSMANİYE",
+    "plateNumber": "80",
+    "phoneCode": "328",
+    "_country": 212
+  },
+  {
+    "_id": 65,
+    "name": "RİZE",
+    "plateNumber": "53",
+    "phoneCode": "464",
+    "_country": 212
+  },
+  {
+    "_id": 66,
+    "name": "SAKARYA",
+    "plateNumber": "54",
+    "phoneCode": "264",
+    "_country": 212
+  },
+  {
+    "_id": 67,
+    "name": "SAMSUN",
+    "plateNumber": "55",
+    "phoneCode": "362",
+    "_country": 212
+  },
+  {
+    "_id": 68,
+    "name": "SİİRT",
+    "plateNumber": "56",
+    "phoneCode": "484",
+    "_country": 212
+  },
+  {
+    "_id": 69,
+    "name": "SİNOP",
+    "plateNumber": "57",
+    "phoneCode": "368",
+    "_country": 212
+  },
+  {
+    "_id": 70,
+    "name": "SİVAS",
+    "plateNumber": "58",
+    "phoneCode": "346",
+    "_country": 212
+  },
+  {
+    "_id": 71,
+    "name": "ŞANLIURFA",
+    "plateNumber": "63",
+    "phoneCode": "414",
+    "_country": 212
+  },
+  {
+    "_id": 72,
+    "name": "ŞIRNAK",
+    "plateNumber": "73",
+    "phoneCode": "486",
+    "_country": 212
+  },
+  {
+    "_id": 73,
+    "name": "TEKİRDAĞ",
+    "plateNumber": "59",
+    "phoneCode": "282",
+    "_country": 212
+  },
+  {
+    "_id": 74,
+    "name": "TOKAT",
+    "plateNumber": "60",
+    "phoneCode": "356",
+    "_country": 212
+  },
+  {
+    "_id": 75,
+    "name": "TRABZON",
+    "plateNumber": "61",
+    "phoneCode": "462",
+    "_country": 212
+  },
+  {
+    "_id": 76,
+    "name": "TUNCELİ",
+    "plateNumber": "62",
+    "phoneCode": "428",
+    "_country": 212
+  },
+  {
+    "_id": 77,
+    "name": "UŞAK",
+    "plateNumber": "64",
+    "phoneCode": "276",
+    "_country": 212
+  },
+  {
+    "_id": 78,
+    "name": "VAN",
+    "plateNumber": "65",
+    "phoneCode": "432",
+    "_country": 212
+  },
+  {
+    "_id": 79,
+    "name": "YALOVA",
+    "plateNumber": "77",
+    "phoneCode": "226",
+    "_country": 212
+  },
+  {
+    "_id": 80,
+    "name": "YOZGAT",
+    "plateNumber": "66",
+    "phoneCode": "354",
+    "_country": 212
+  },
+  {
+    "_id": 81,
+    "name": "ZONGULDAK",
+    "plateNumber": "67",
+    "phoneCode": "372",
+    "_country": 212
+  }
+]
