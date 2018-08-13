@@ -7,7 +7,9 @@ const app = express();
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
-const configurationProperties = require("./config/configuration-properties");
+const configurationProperties = require("../../config/configuration-properties");
+
+const countries = require("../../routes/api/contact_information/countries");
 
 mongoose
   .connect(
@@ -17,6 +19,8 @@ mongoose
   .then(() => console.log("Database connection established ..."))
   .catch(err => console.log(`Database connection error : ${err.message}`));
 
-const port = process.env.PORT || configurationProperties.mainPort;
+app.use("/api/contact-information", countries);
+
+const port = process.env.PORT || configurationProperties.contactInformationPort;
 
 app.listen(port, () => console.log(`Server is running on  port ${port}`));

@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node server.js",
     "server": "nodemon server.js",
-    "seed-database": "node ./seed/mongo-seeder.js"
+    "seed-database": "node ./seed/mongo-seeder.js",
+    "start-contact-information": "node ./services/contact_information/server.js"
   },
   "repository": {
     "type": "git",

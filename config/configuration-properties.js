@@ -1,4 +1,5 @@
 module.exports = {
   connectionString: "mongodb://localhost:27017/authentication-server",
-  port: 7000
+  mainPort: 7000,
+  contactInformationPort: 7001
 };
