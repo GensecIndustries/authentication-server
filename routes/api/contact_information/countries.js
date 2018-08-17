@@ -1,7 +1,7 @@
 const express = require("express");
 const router = express.Router();
 const isEmpty = require("../../../utils/validation/is-empty");
-const Country = require("../../../models/country");
+const Country = require("../../../db/models/country");
 
 router.get("/test", (req, res) => res.json({ msg: "Countries Works" }));
 
